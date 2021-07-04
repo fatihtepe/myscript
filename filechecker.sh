@@ -8,8 +8,5 @@ then
 else
 	touch $file
 	echo "The file is created"
-	mkdir ali 
-	echo "icinie yaz birseyler" > elma.txt
-	
 fi
 	
