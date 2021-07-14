@@ -7,7 +7,7 @@ if [[ -f $fileName ]]
 then
 	echo "Enter the text to search"
 	read grepvar
-	grep -i $grepvar $fileName
+	grep -i -n -c $grepvar $fileName
 else
 	echo "$fileName does not exist"
 fi
