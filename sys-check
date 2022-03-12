@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Check our system.
+
+echo "Memory:"
+free -h
+echo "Disk Usage:"
+du -h
+echo "Uptime:"
+uptime
+
+exit

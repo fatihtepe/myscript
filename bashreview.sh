@@ -32,3 +32,4 @@ echo "The user $user Exists"
 else
 echo "The user $user doesn’t exist"
 fi
+

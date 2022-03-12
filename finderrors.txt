@@ -1,0 +1,4 @@
+a b c d e 200 f
+d h k ; r 200 t
+a d g e e 300 h
+g jl r e w 200 t
